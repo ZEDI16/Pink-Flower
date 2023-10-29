@@ -2,5 +2,5 @@
 ![ProjectImage](https://github.com/ZEDI16/Pink-Flower/blob/main/assets/image/ScreenshotNigs.png)
 
 
-## Original Source:
+## Reference:
 > https://codepen.io/mdusmanansari/pen/BamepLe
